@@ -1,5 +1,6 @@
 # Payloads for some vulnerabilyties
 
-## [XSS_payloads](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt)
-## [SQL payloads](https://habr.com/ru/company/owasp/blog/326362/)
-## [Command Injections](https://github.com/payloadbox/command-injection-payload-list)
+## [XSS](https://github.com/RockThisParty/Payloads/blob/master/XSS_payloads.txt)
+## [SQL](https://github.com/RockThisParty/Payloads/blob/master/SQL_payloads.txt)
+## [Command Injections for Linux](https://github.com/RockThisParty/Payloads/blob/master/Command_Injections(Linux).txt)
+## [Command Injections for Windows](https://github.com/RockThisParty/Payloads/blob/master/Command_Injections(Windows).txt)
